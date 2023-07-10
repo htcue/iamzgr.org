@@ -1,5 +1,5 @@
 ## gpg --help                                                                                                         ─╯
-gpg (GnuPG) 2.2.41
+> gpg (GnuPG) 2.2.41
 libgcrypt 1.10.2-unknown
 Copyright (C) 2022 g10 Code GmbH
 License GNU GPL-3.0-or-later <https://gnu.org/licenses/gpl.html>
