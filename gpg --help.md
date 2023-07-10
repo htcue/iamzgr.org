@@ -6,8 +6,9 @@ License GNU GPL-3.0-or-later <https://gnu.org/licenses/gpl.html>
 This is free software: you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
 
-Home: /home/zen/.gnupg
-支持的算法：
+
+## 支持的算法：
+```bash
 公钥： RSA, ELG, DSA, ECDH, ECDSA, EDDSA
 密文： IDEA, 3DES, CAST5, BLOWFISH, AES, AES192, AES256, TWOFISH,
     CAMELLIA128, CAMELLIA192, CAMELLIA256
@@ -17,7 +18,7 @@ Home: /home/zen/.gnupg
 语法：gpg [选项] [文件]
 签名、检查、加密或解密
 默认的操作依输入数据而定
-
+```
 ### 命令：
 ```bash
  
