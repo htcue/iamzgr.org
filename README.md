@@ -1,5 +1,8 @@
 # iamzgr.org
-
+## Arch Linux 
+```
+https://iamvgr.notion.site/Arch-Linux-Installation-Guide-2e5d90a5fb804ce2a0aa2d9b1b73aacb?pvs=4
+```
 ### 
 ``` 我有罪
 我有原罪，
