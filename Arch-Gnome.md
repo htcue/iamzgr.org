@@ -4,3 +4,4 @@ sudo pacman -R gnome-maps gnome-music gnome-tour gnome-weather gnome-software ep
 
 sudo pacman -R yelp
 ```
+
