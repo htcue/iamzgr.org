@@ -15,3 +15,9 @@ makepkg -si
 ```
 https://extensions.gnome.org/extension/307/dash-to-dock/
 ```
+## Start Bluetooth Server
+```bash
+systemctl enable bluetooth
+systemctl start bluetooth
+systemctl status bluetooth
+```
