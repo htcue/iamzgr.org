@@ -5,6 +5,12 @@ sudo pacman -R gnome-maps gnome-music gnome-tour gnome-weather gnome-software ep
 
 sudo pacman -R yelp
 ```
+## GNOME Shell browser integration Installation Guide
+```
+git clone https://aur.archlinux.org/gnome-browser-connector.git
+cd gnome-browser-connector
+makepkg -si
+```
 ## Gnome Dash to dock
 ```
 https://extensions.gnome.org/extension/307/dash-to-dock/
