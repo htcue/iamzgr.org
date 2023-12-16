@@ -1,6 +1,6 @@
 # iamzgr.org
 ## Android Aosp Rom List
-LineageOS [https://lineageos.org/](https://lineageos.org/)  
+LineageOS [lineageos](https://lineageos.org/)  
 EvolutionX [https://evolution-x.org/]](https://evolution-x.org/)  
 Derpfest [https://derpfest.org/](https://derpfest.org/)  
 crDroid [https://crdroid.net/](https://crdroid.net/)  
