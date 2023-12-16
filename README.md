@@ -1,14 +1,14 @@
 # iamzgr.org
 ## Android Aosp Rom List
-LineageOS [LineageOS](https://lineageos.org/)
-EvolutionX [EvolutionX](https://evolution-x.org/)
-Derpfest [Derpfest](https://derpfest.org/)
-crDroid [crDroid](https://crdroid.net/)
-ArrowOS ArrowOS](https://arrowos.net/)
-paranoidandroid [paranoidandroid](https://paranoidandroid.co/)
-Pixel Experience [Pixel Experience](https://get.pixelexperience.org/)
-GrapheneOS [GrapheneOS](https://grapheneos.org/)
-CalyxOS [CalyxOS](https://calyxos.org/)
+LineageOS [LineageOS](https://lineageos.org/) 
+EvolutionX [EvolutionX](https://evolution-x.org/) 
+Derpfest [Derpfest](https://derpfest.org/) 
+crDroid [crDroid](https://crdroid.net/) 
+ArrowOS ArrowOS](https://arrowos.net/) 
+paranoidandroid [paranoidandroid](https://paranoidandroid.co/) 
+Pixel Experience [Pixel Experience](https://get.pixelexperience.org/) 
+GrapheneOS [GrapheneOS](https://grapheneos.org/) 
+CalyxOS [CalyxOS](https://calyxos.org/) 
 ## Tor obfs4
 ### Fast
 ```
