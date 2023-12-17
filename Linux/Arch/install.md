@@ -1,23 +1,23 @@
-Disk Partitioning
+# Disk Partitioning
 We are going to cover two possible disk partitioning schemes:
 
-[CaseA] - "Almost-Full" disk encryption, faster boot time
-
+## [CaseA] - "Almost-Full" disk encryption, faster boot time
+```bash
  /dev/sdX - physical disk with MBR partition table
  /dev/sdX1 - /boot unencrypted partition of 1 GB size
  /dev/sdX2 - encrypted with LUKS (Linux Unified Key Setup) and partitioned into a LVM (Logical Volume Manager) container
  |---> Logical volume 1 - /dev/mapper/lvm-volSwap - swap partition, the size of which is >= size of your RAM (i.e. 16 GB)
  |---> Logical volume 2 - /dev/mapper/lvm-volRoot - / root partition, which gets 100% of remaining free space
-[/CaseA]
-
-[CaseB] - Full disk encryption, slower boot time
+ ```
+## CaseB - Full disk encryption, slower boot time
+```
 
  /dev/sdX - physical disk with MBR partition table
  /dev/sdX1 - encrypted with LUKS (Linux Unified Key Setup) and partitioned into a LVM (Logical Volume Manager) container
  |---> Logical volume 1 - /dev/mapper/lvm-volBoot - /boot encrypted partition of 1 GB size
  |---> Logical volume 2 - /dev/mapper/lvm-volSwap - swap partition, the size of which is >= size of your RAM (i.e. 16 GB)
  |---> Logical volume 3 - /dev/mapper/lvm-volRoot - / root partition, which gets 100% of remaining free space
-[/CaseB]
+```
 
 Choose a case based on your speed/security preferences. The case-specific commands below - will be marked as [CaseA] or [CaseB] respectively!
 
