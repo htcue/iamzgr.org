@@ -9,7 +9,7 @@
 - [Pixel Experience](https://get.pixelexperience.org/ )  
 - [GrapheneOS](https://grapheneos.org/)   
 - [CalyxOS](https://calyxos.org/)  
-
+pacman -Sy gnome-browser-connector
 ## Tor obfs4
 ### Fast
 ```
